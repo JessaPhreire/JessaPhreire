@@ -1,7 +1,7 @@
 About Me
 
 - 💞️ Favorite languages: Python, C, C#, Bash.
-- 💞️ Favorite tools: Unity, Blender, Visual Studio Code, Notepad ++.
+- 💞️ Favorite tools: Unity, Blender, Visual Studio Code, Notepad++.
 - 💞️ Favorite OS Distro: Mint.
 - 💞️ Social causes: Copyleft, OpenSource.
 - 💞️ Favorite tv shows: Leverage, Mr. Robot.
