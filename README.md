@@ -5,7 +5,7 @@ About Me
 - 💞️ Favorite OS Distro: Mint.
 - 💞️ Values: Copyleft, OpenSource.
 - 💞️ Favorite tv shows: Leverage, Mr. Robot.
-- 💞️ Favorite Games: Tropico, Arkham Series, GTA SA, Skyrim, Fallout.
+- 💞️ Favorite Games: Tropico, Batman: Arkham, GTA SA, Skyrim, Fallout New Vegas.
 
 <!---
 JessaPhreire/JessaPhreire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
