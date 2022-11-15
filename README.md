@@ -1,6 +1,6 @@
 About Me
 
-- 💞️ Favorite languages: Python, C, C#, Bash.
+- 💞️ Favorite languages: Python, C#, Bash.
 - 💞️ Favorite tools:  VS Code, Notepad++, Unity, Blender, Construct 3, GIMP, MagicaVoxel, FL Studio.
 - 💞️ Favorite OS Distro: Mint.
 - 💞️ Favorite tv shows: Leverage, Mr. Robot.
