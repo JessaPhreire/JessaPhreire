@@ -4,7 +4,7 @@ About Me
 - 💞️ Favorite tools:  VS Code, Notepad++, Unity, Blender, Construct 3, GIMP, MagicaVoxel, FL Studio.
 - 💞️ Favorite OS Distro: Mint.
 - 💞️ Favorite tv shows: Leverage, Mr. Robot.
-- 💞️ Favorite Games: Tropico, Batman: Arkham, GTA SA, Skyrim, Fallout New Vegas.
+- 💞️ Favorite Games: Skyrim, Fallout New Vegas.
 - 💞️ Values: Copyleft, OpenSource.
 
 <!---
